@@ -1,0 +1,3 @@
+o aquivo 'Main' com letra maiuscula é o banco em implementação, onde as chamadas resultam em "operação não implementada"
+
+o arquivo 'main' abrenge o sistema completo
